@@ -115,6 +115,13 @@ outline-color: green;
  text-align: center;
  text-transform: capitalize;
 }
+
+#enquiry h1{
+ text-align: center;
+ margin-bottom: 60px;
+ text-decoration: underline;
+ color: red;
+}
  @keyframes blink{
   from{ opacity: 0;}
   to{ opacity: 1;}
