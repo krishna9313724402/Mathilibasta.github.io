@@ -49,6 +49,72 @@ li{
  text-decoration: underline;
  
  }
+
+#enquiry{
+ width: 100%;
+ height: auto;
+ padding: 0 400px;
+ 
+ 
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: white;
+ background-color: rgba(0, 0, 0, 0.836);
+}
+#enquiry h2{
+ font-weight: 400;
+ text-transform: capitalize;
+ font-size: 20px;
+margin-bottom: 30px;
+letter-spacing: 1px;
+}
+.resize{
+ resize:none;
+ width: 100%;
+ height: 100px;
+ background-color: transparent;
+ border: none;
+ border-bottom: 2px solid grey;
+}
+.centre{
+ 
+
+
+}
+textarea:focus{
+ outline: none;
+ color: white;
+}
+input{
+ background-color: transparent;
+ border: none;
+ font-size: 100px;
+ 
+ font-size: large;
+ width: 100%;
+ border-bottom: 2px solid grey;
+}
+input:focus{
+outline: none;
+ color: white;
+outline-color: green;
+}
+
+.margin{
+ margin-bottom: 20px;
+ width: 100%;
+}
+.sub{
+ width: 50%;
+ margin: auto;
+ color: white;
+ border: 2px solid white;
+ margin-top: 30px;
+ height: 50px;
+ font-size: 25px;
+ text-align: center;
+ text-transform: capitalize;
+}
  @keyframes blink{
   from{ opacity: 0;}
   to{ opacity: 1;}
@@ -197,6 +263,17 @@ ul li{
 }
 .contact h1{
  margin-bottom: 30px;
+}
+ 
+input{
+ width: 100%;
+ 
+ 
+}
+#enquiry{
+padding: 40px;
+width: 100%;
+}
 }
 }
 @media  (max-width:1024px){
