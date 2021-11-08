@@ -53,8 +53,8 @@ li{
 #enquiry{
  width: 100%;
  height: auto;
- padding: 20px 400px;
- 
+ padding: 60px 400px;
+ border-top: 1px solid grey;
  
  background-repeat: no-repeat;
  background-size: cover;
@@ -280,6 +280,7 @@ input{
 #enquiry{
 padding: 40px;
 width: 100%;
+padding-bottom: 70px
 }
 
 .sub{
