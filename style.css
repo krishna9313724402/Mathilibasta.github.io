@@ -53,7 +53,7 @@ li{
 #enquiry{
  width: 100%;
  height: auto;
- padding: 0 400px;
+ padding: 20px 400px;
  
  
  background-repeat: no-repeat;
@@ -105,7 +105,7 @@ outline-color: green;
  width: 100%;
 }
 .sub{
- width: 50%;
+ width: 30%;
  margin: auto;
  color: white;
  border: 2px solid white;
@@ -281,6 +281,11 @@ input{
 padding: 40px;
 width: 100%;
 }
+
+.sub{
+ width: 50%;
+ border-radius: 15px;
+ height: 60px;
 }
 }
 @media  (max-width:1024px){
