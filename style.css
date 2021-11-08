@@ -89,14 +89,14 @@ input{
  background-color: transparent;
  border: none;
  font-size: 100px;
- 
+ color: white;
  font-size: large;
  width: 100%;
  border-bottom: 2px solid grey;
 }
 input:focus{
 outline: none;
- color: white;
+ 
 outline-color: green;
 }
 
